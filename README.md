@@ -1,4 +1,4 @@
-# hng11stage1task
+# HNG 11 Stage1 Task
 
 A simple shopping app
 
